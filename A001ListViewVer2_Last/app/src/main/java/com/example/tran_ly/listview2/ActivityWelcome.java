@@ -1,5 +1,5 @@
 package com.example.tran_ly.listview2;
-
+//This is a comment added to demo Git
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
